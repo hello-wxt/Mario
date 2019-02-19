@@ -1,11 +1,11 @@
-¿ª·¢»·¾³£º
-    WINDOWS£ºWindows XP
-    VS£ºVS2008
-    EASYX£ºEasyX 2013Ëª½µ°æ
+å¼€å‘çŽ¯å¢ƒï¼š
+    WINDOWSï¼šWindows XP
+    VSï¼šVS
+    EASYXï¼šEasyX 2013éœœé™ç‰ˆ
 
-ÔËÐÐÓÎÏ·£º
-    ½øÈë Mario2£¬Ë«»÷ maliao.exe ÔËÐÐ¼´¿É
-    »ò½øÈë Mario2£¬ÓÃ vs2008 ÔËÐÐ maliao.sln
+è¿è¡Œæ¸¸æˆï¼š
+    è¿›å…¥ Mario2ï¼ŒåŒå‡» maliao.exe è¿è¡Œå³å¯
+    æˆ–è¿›å…¥ Mario2ï¼Œç”¨ vs2008 è¿è¡Œ maliao.sln
 
-×÷Õß£º
-    Ä¾×ÓÄîÄî
+ä½œè€…ï¼š
+    WXT
